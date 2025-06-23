@@ -6,4 +6,4 @@ Showcasing my work as a Product Manager, including the UniHaven project.
 - [UniHaven Case Study](/case-studies/unihaven.md)
 
 ## About Me
-PM focused on user research and delivery. https://www.linkedin.com/in/chika-vivian-christopher(#)
+PM focused on user research and delivery. https://www.linkedin.com/in/chika-vivian-christopher
