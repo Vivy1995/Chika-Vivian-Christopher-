@@ -28,9 +28,7 @@ Fleet managers faced high operational costs due to limited data-driven tools for
 - **Engagement**: ≤24-hour maintenance alert resolution.
 
 ## Artifacts
-- [PRD Document](/assets/docs/rtv-fleet-prd.pdf)
-- [Sign In Wireframe](/assets/images/rtv-signin.png)
-- [Fuel Usage Wireframe](/assets/images/rtv-fuel-usage.png)
+- PRD Document https://docs.google.com/document/d/14C8LjEkPeoF0Ry3C4IxohXbaQzFdo-W7PB3PmegfikY/edit?usp=drivesdk
 
 ## Roadmap
 - Week 1: PRD and planning.
