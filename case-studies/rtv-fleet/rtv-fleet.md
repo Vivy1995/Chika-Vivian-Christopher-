@@ -5,7 +5,7 @@
 As a Product Manager, I co-led the development of RTV Fleet, an AI-driven dashboard to optimize fleet operations for managers in Nigeria. This project tackled high fuel costs, inefficient routes, and maintenance challenges through a 6-week MVP.
 
 ## My Role
-- Co-authored the PRD with Rita Famakinwa and Vivian Christopher.
+- Co-authored the PRD with Rita Famakinwa and Timehin Andrew.
 - Defined user personas (Ahmed, Ngozi, Ibrahim) and success metrics (e.g., 15% fuel reduction).
 - Guided the roadmap from planning to soft launch with pilot testing.
 
