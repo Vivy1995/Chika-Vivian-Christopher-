@@ -20,9 +20,9 @@ Students face scams and unverified listings. Research with 40 students (20 Googl
 - **Communication**: In-app chat, WhatsApp.
 
 ## Artifacts
-- [Figma Wireframe](https://www.figma.com/board/RPLDEJTTJUTQYYIDRCG3ITZ)
-- [Trello Roadmap](https://trello.com/invite/b/8794/2)
-- [Sample PRD](#) *(Add PDF link later)*
+- Figma Wireframehttps://www.figma.com/design/rEMBX9iegRKStWRFW16cvw/Untitled?t=GQP7NfQEWd21z51E-1
+- Trello Roadmap https://trello.com/b/VZAswQnK
+- Sample PRD https://docs.google.com/document/d/1DIxZbQvEzj7yuSqG44twcz_boYIYZGtkhmw3KcgPhyM/edit?usp=sharing
 
 ## Metrics
 - **North Star**: Successful rentals.
